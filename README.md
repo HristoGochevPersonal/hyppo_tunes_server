@@ -1,4 +1,4 @@
-#HyppoTunes Server
+# HyppoTunes Server
 Server application for the HyppoTunes mobile app.
 
 Presents to the mobile app data about songs stored in the /files folder via a gRPC connection.
